@@ -186,7 +186,7 @@ const animationTimeline = () => {
       ".lydia-dp",
       0.5,
       {
-        scale: 2.5,
+        scale: 1.5,
         opacity: 0,
         x: 25,
         y: -25,
