@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/faahim/happy-birthday.git"
+    "url": "git+https://github.com/sherlinhs/happy-birthday.git"
   },
   "keywords": [
     "Happy",
@@ -27,6 +27,6 @@
   "bugs": {
     "url": "https://github.com/faahim/happy-birthday/issues"
   },
-  "homepage": "https://github.com/faahim/happy-birthday#readme",
+  "homepage": "https://github.com/sherlinhs/happy-birthday#readme",
   "dependencies": {}
 }
