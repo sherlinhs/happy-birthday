@@ -195,23 +195,6 @@ const animationTimeline = () => {
       },
       0.2
     )
-    .from(
-      ".lydia-dp",
-      0.5,
-      {
-        opacity: 0,
-        x: 25,
-        y: 25,
-        rotationZ: -45
-      },
-      "-=2"
-    )
-    .from(".hat", 0.5, {
-      x: -150,
-      y: 350,
-      rotation: -180,
-      opacity: 0
-    })
     .staggerFrom(
       ".wish-hbd span",
       0.7,
@@ -251,6 +234,23 @@ const animationTimeline = () => {
       },
       "party"
     )
+  .from(
+      ".lydia-dp",
+      0.5,
+      {
+        opacity: 0,
+        x: 25,
+        y: 25,
+        rotationZ: -45
+      },
+      "-=2"
+    )
+    .from(".hat", 0.5, {
+      x: -150,
+      y: 350,
+      rotation: -180,
+      opacity: 0
+    })
     .staggerTo(
       ".eight svg",
       1.5,
