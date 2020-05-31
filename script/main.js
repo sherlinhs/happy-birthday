@@ -195,7 +195,7 @@ const animationTimeline = () => {
       },
       0.2
     )
-  .from(
+    .from(
       ".lydia-dp",
       0.5,
       {
@@ -212,7 +212,7 @@ const animationTimeline = () => {
       rotation: -180,
       opacity: 0
     })
-.staggerFrom(
+    .staggerFrom(
       ".wish-hbd span",
       0.7,
       {
