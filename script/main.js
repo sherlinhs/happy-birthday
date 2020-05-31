@@ -200,7 +200,7 @@ const animationTimeline = () => {
       0.7,
       {
         opacity: 0,
-        y: -50,
+        y: 10,
         // scale: 0.3,
         rotation: 150,
         skewX: "30deg",
