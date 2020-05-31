@@ -19,7 +19,6 @@ body {
 
 .container div.six {
   top: 10vh;
-  height: 200vh;
   z-index: 1;
 }
 
