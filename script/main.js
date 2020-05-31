@@ -175,6 +175,7 @@ const animationTimeline = () => {
       {
         opacity: 0.8,
         y: 1400
+        x: 1000
       },
       {
         opacity: 1,
